@@ -1,0 +1,173 @@
+
+
+.titulo{
+font-size: 30px;
+text-align: center;
+background-image: url(imagenes/58.jpg);
+border-radius: 3px;
+padding-top: 30px;
+padding-bottom: 1px;
+}
+
+
+.titulo2{
+    color: aliceblue;
+    position: relative;
+    font-family: luckiest Guy;
+    
+}
+
+.fondotitulo{
+    padding-right: 100px;
+    padding-left: 150px;
+    background-color: rgb(10, 69, 136);
+    margin: 100px auto;
+    width: 700px;
+    border-radius: 5px;
+    
+    
+}
+
+.primero{
+    color: rgb(0, 0, 0);
+    background-color: rgb(146, 124, 0);
+    margin-left: 500px;
+    font-size: 20px;
+    font-family: luckiest Guy;
+    border-radius: 2px;
+    margin-right: 500px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-top: 10px;
+    
+}
+
+
+.segundo{
+    color: rgb(36, 27, 27);
+    background-color: rgb(255, 255, 255);
+    margin-left: 500px;
+    font-size: 20px;
+    font-family: luckiest Guy;
+    border-radius: 2px;
+    margin-right: 500px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-top: 10px;
+}
+    
+.tercero{
+    color: rgb(0, 0, 0);
+    background-color: rgb(179, 95, 0);
+    margin-left: 500px;
+    font-size: 20px;
+    font-family: luckiest Guy;
+    border-radius: 2px;
+    margin-right: 500px;
+    padding-top: 4px;
+    padding-bottom: 4px;
+    margin-top: 10px;
+    
+}
+
+.nada{
+    background-color: rgb(0, 255, 170);
+    text-align: center;
+    font-family: luckiest Guy;
+    margin-right: 820px;
+    margin-left: 48%;
+    border-radius: 3px;
+    font-size: 20px;
+    border-color: black;
+}
+
+.fondo{
+    background-color: aqua;
+    border-radius: 900px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    margin-top: 10px;
+    border: 2px;
+    
+}
+
+/*.primero:hover{
+    background-color: blueviolet;
+    transition: all;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px;
+     transition: all 0.5s;
+}*/
+
+.segundo:hover{
+    background-color: rgb(175, 39, 209);
+    transition: all;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px; 
+    transition: all 0.5s;
+}
+
+
+.tercero:hover{
+    background-color: rgb(209, 39, 167);
+    transition: all;
+    padding-left: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-right: 10px; 
+    transition: all 0.5s;
+}
+
+.nada:hover{
+ padding-top: 5px;
+ padding-bottom: 5px;
+ padding-left: 5px;
+ padding-right: 5px;
+ background-color: black;
+ color: aliceblue;
+ transition: all 0.5s;
+ border-color: rgb(255, 255, 255);
+ 
+}
+
+.nada h1:hover{
+    color: brown;
+}
+
+
+
+.titulo h1:hover{
+    color: rgb(0, 0, 0);
+    font-size: 44px;
+    text-align: center;
+    transition: all 1s;
+}
+
+.titulo2{
+    text-decoration: none rgb(83, 22, 0);
+  
+}
+
+
+.link:hover{
+    color: aqua;
+
+}
+
+.link {
+    
+    color: black;
+    
+}
+
+#final:hover{
+    color: aquamarine;
+}
+
+#inhibidor:hover{
+    color: aliceblue;
+}
